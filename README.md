@@ -1,13 +1,14 @@
 
 <div id="header" align="center">
   <img src="https://www.wilsoninfo.com/welcome/welcome-back-board-2018.gif" 
-width="150px"/>
+width="200px"/>
 
 # Thanks for stopping by
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+alt="LinkedIn Badge" width="180"/>
   </a>
   
 </div>
