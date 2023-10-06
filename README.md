@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
 <h1>
-  <img src="welcome.gif" 
-width="300px"/>
+  <img src="https://www.wilsoninfo.com/welcome/welcome-back-board-2018.gif" 
+width="150px"/>
 </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
@@ -14,11 +14,11 @@ width="300px"/>
     <img src="https://komarev.com/ghpvc/?username=amirgolp&style=flat-square&color=blue" alt="LinkedIn Badge"/>
   </a>
 
-
+---
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" />
+  <img src="https://i.gifer.com/3IsP.gif" />
 </div>
 
 ---
@@ -33,7 +33,7 @@ on the way to becoming a full-stack developer soon (using node.js)
 
 - :telescope: I’m learning React.js as a Software Engineer, contributing to frontend web applications.
 
-- :seedling: 
+- :seedling: CSS drives me crazy but I still love it
 
 - :zap: In my free time (which I almost never have🥵) I play around with node.js
 
