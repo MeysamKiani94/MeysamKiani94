@@ -4,7 +4,6 @@
 width="200px"/>
 
 # Thanks for stopping by
-
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -15,16 +14,12 @@ alt="LinkedIn Badge" width="180"/>
 <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
     <img src="https://komarev.com/ghpvc/?username=amirgolp&style=flat-square&color=blue" alt="LinkedIn Badge"/>
   </a>
-
----
 </div>
 
 <div align="center">
   <img src="rpf.gif" width="250" />
 
 </div>
-
----
 
 ### :man_technologist: About Me :
 
