@@ -2,10 +2,9 @@
 <div id="header" align="center">
 
 <h1>
-  <img src="https://cdn.dribbble.com/users/1117770/screenshots/2626626/media/93a1d9fc9cc4a8da0871763f4f84bc4e.gif" 
+  <img src="welcome.gif" 
 width="300px"/>
 </h1>
-
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
@@ -21,7 +20,7 @@ width="300px"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
