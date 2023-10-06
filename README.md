@@ -32,7 +32,8 @@ width="150px"/>
  width="30">
  on the way to becoming a full-stack developer soon (using node.js)
 </p>
-## Fun Facts
+
+### Fun Facts
 
 - :telescope: I’m learning React.js as a Software Engineer, contributing to frontend web applications
 
@@ -44,7 +45,7 @@ width="150px"/>
 
 
 
-- :mailbox:Feel free to contact me: 
+- :mailbox: Feel free to contact me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Meysam%20Kiani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-kiani-b96ba9203/)
 
 ---
