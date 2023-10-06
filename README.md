@@ -2,8 +2,8 @@
 <div id="header" align="center">
 
 <h1>
-    Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://cdn.dribbble.com/users/1117770/screenshots/2626626/media/93a1d9fc9cc4a8da0871763f4f84bc4e.gif" 
+width="300px"/>
 </h1>
 
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
