@@ -3,7 +3,7 @@
   <img src="https://www.wilsoninfo.com/welcome/welcome-back-board-2018.gif" 
 width="150px"/>
 
-## Thanks for stopping by
+# Thanks for stopping by
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
@@ -19,7 +19,7 @@ width="150px"/>
 </div>
 
 <div align="center">
-  <img src="rpf.gif" />
+  <img src="rpf.gif" width="250" />
 
 </div>
 
@@ -64,7 +64,6 @@ width="150px"/>
 ### Soon to learn:
 
 <div>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;&nbsp;
@@ -74,12 +73,3 @@ width="150px"/>
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirgolp&theme=dark&border_radius=3.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirgolp)](https://github.com/amirgolp/github-readme-stats)
-
----
-
