@@ -26,20 +26,20 @@ width="300px"/>
 
 ### :man_technologist: About Me :
 
-I am a front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-I'm on my way to becoming a full-stack developer using node.js and React 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ I am a Front-end React Developer, 
+on the way to becoming a full-stack developer soon (using node.js)
 
+## Fun Facts
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m learning React.js as a Software Engineer, contributing to frontend web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: 
 
-- :zap: In my free time, I play around with new tech stacks (aside from 🎮).
+- :zap: In my free time (which I almost never have🥵) I play around with node.js
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="meysam-kiani-b96ba9203" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/meysam-kiani-b96ba9203?trk=profile-badge">Meysam Kiani</a></div>
-
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amirgolp-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-kiani-b96ba9203/)
+- :mailbox:Feel free to say hello: 
+[![Linkedin Badge](https://img.shields.io/badge/-Meysam%20Kiani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-kiani-b96ba9203/)
 
 ---
 
