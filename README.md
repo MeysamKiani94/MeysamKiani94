@@ -1,10 +1,9 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div id="header" align="center">
-
 <h1>
   <img src="welcome.gif" 
 width="300px"/>
-<img src="meysam.jpg" width="50%" >
 </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
@@ -27,7 +26,9 @@ width="300px"/>
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Berlin atm.
+I am a front-end React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm on my way to becoming a full-stack developer using node.js and React 
+
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -35,7 +36,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I play around with new tech stacks (aside from 🎮).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amirgolp-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-golparvar/)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="meysam-kiani-b96ba9203" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/meysam-kiani-b96ba9203?trk=profile-badge">Meysam Kiani</a></div>
+
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-amirgolp-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meysam-kiani-b96ba9203/)
 
 ---
 
