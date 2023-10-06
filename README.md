@@ -1,9 +1,8 @@
 
 <div id="header" align="center">
-<h1>
   <img src="https://www.wilsoninfo.com/welcome/welcome-back-board-2018.gif" 
 width="150px"/>
-</h1>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/meysam-kiani-b96ba9203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
